@@ -50,7 +50,6 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
 
 <img width="1919" height="1018" alt="Screenshot 2025-12-01 122342" src="https://github.com/user-attachments/assets/cdfa44cc-4225-42b6-8abf-2feda2f11c7f" />
 <img width="1915" height="1021" alt="Screenshot 2025-12-01 122351" src="https://github.com/user-attachments/assets/b341c2f4-eaa3-4b3a-9a2f-fa21446f00b1" />
+<img width="1919" height="947" alt="Screenshot 2025-12-01 122410" src="https://github.com/user-attachments/assets/b9981dbc-edd3-4ec1-91ff-809de1b2dcd9" />
+<img width="1919" height="1019" alt="Screenshot 2025-12-01 122422" src="https://github.com/user-attachments/assets/ce86786d-c7a3-4a7f-8620-20a90e6912e7" />
 
-<img width="1919" height="1079" alt="Screenshot 2025-12-01 122410" src="https://github.com/user-attachments/assets/56421510-935e-48f9-9cd6-16ce35fd4da2" />
-
-<img width="1919" height="1078" alt="Screenshot 2025-12-01 122422" src="https://github.com/user-attachments/assets/2b5c68f4-d45f-4e6f-b708-aaaa5c605529" />
